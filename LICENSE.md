@@ -1,4 +1,4 @@
-
+elite Plugin for Inkscape for macOS - smart objects and masking tools is the best Inkscape for macOS plugin, featuring smart objects and masking tools. Safe, efficient, and
 
 
 
